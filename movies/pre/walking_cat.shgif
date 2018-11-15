@@ -1,0 +1,57 @@
+10 0 logo
+90 30 txt_nowmaking
+3 25 cat_stand
+sleep 0.2
+4 25 cat_walking1
+sleep 0.2
+5 25 cat_stand
+sleep 0.2
+6 25 cat_walking2
+sleep 0.2
+7 25 cat_stand
+sleep 0.2
+8 25 cat_walking1
+sleep 0.2
+9 25 cat_stand
+sleep 0.2
+10 25 cat_walking2
+sleep 0.2
+11 25 cat_stand
+sleep 0.2
+12 25 cat_walking1
+sleep 0.2
+13 25 cat_stand
+sleep 0.2
+14 25 cat_walking2
+sleep 0.2
+15 25 cat_stand
+sleep 0.2
+16 25 cat_walking1
+sleep 0.2
+17 25 cat_stand
+sleep 0.2
+18 25 cat_walking2
+sleep 0.2
+19 25 cat_stand
+sleep 0.2
+20 25 cat_walking1
+sleep 0.2
+21 25 cat_stand
+sleep 0.2
+22 25 cat_walking2
+sleep 0.2
+23 25 cat_stand
+sleep 0.2
+24 25 cat_walking1
+sleep 0.2
+25 25 cat_stand
+sleep 0.2
+26 25 cat_walking2
+sleep 0.2
+27 25 cat_stand
+sleep 0.2
+28 25 cat_walking1
+sleep 0.2
+29 25 cat_stand
+sleep 0.4
+68 22 effect_notice

@@ -1,0 +1,24 @@
+p=218,i=177,w=256,
+
+┌────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                                    │
+│www    www                               ww                                                         │
+│ www  www                                ww                                                         │
+│  wwwwww    wwwwww   wwwwwwww   wwwwwww  ww wwww   ii    pp   ppppppp   ppppppp                     │
+│   wwww    www  www      www    w wwwww  iiiii     pp    pp   ppp       p ppppp                     │
+│    ww     ww    ww    www     iiiiiiii  pppppp    pp    pp   pp       pppppppp                     │
+│    ww     wwwwwwww  iiiiiiii  pppppppp  pp  ppp   pppppppp   pp       pppppppp                     │
+│    ii       iiii    pppppppp   pppp pp  pp   ppp   pppp pp   pp        pppp pp                     │
+│                                                                                                    │
+│                                                                                                    │
+│                                                                                                    │
+│                               pppppp                           pp                                  │
+│                               pppppppp                         pp                           ww     │
+│                               pp    pp   ppppppp   pppppp    pppp      pppppp    iiiiiii  wwwwwww  │
+│                               ppppppp    ppp      ppp  ppp     pp     iiiiiiii  www    w    ww     │
+│                               pp         pp       pp    pp     ii     wwwwwwww  ww          ww     │
+│                               pp         pp       iiiiiiii     ww     wwwwwwww  wwwwwwww    wwwww  │
+│                               pp         ii         wwww       ww       wwwww     wwwww      wwww  │
+│                                                             wwwww                                  │
+│                                                                                                    │
+└────────────────────────────────────────────────────────────────────────────────────────────────────┘
