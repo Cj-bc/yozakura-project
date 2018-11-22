@@ -9,3 +9,8 @@ This contains:
 etc.
 
 Doesn't have any sounds for now sry...
+
+
+# memo
+
+  * 

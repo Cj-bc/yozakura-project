@@ -1,0 +1,8 @@
+ようこそ
+
+# index
+
+  - [このwikiについて](about.wiki)
+  - [キャラクター設定](characters/index.wiki)
+  - [世界観](world/index.wiki)
+  - [yozakura projectについて](about-project)
