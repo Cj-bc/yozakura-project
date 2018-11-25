@@ -2,7 +2,7 @@
 
 # index
 
-  - [このwikiについて](about.wiki)
-  - [キャラクター設定](characters/index.wiki)
-  - [世界観](world/index.wiki)
+  - [このwikiについて](about)
+  - [キャラクター設定](characters/index)
+  - [世界観](world/index)
   - [yozakura projectについて](about-project)
