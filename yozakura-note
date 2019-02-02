@@ -6,6 +6,24 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [version] - YYYY/MM/DD
 
+# 2019-02-02
+## Added
+	* Voice setting: vabiniku_0.0.5
+		* ノイズゲート: -50dB (+6dB)
+		* EQ設定: 2450Hz, 2dB. ノイズ避け
+
+# 2018-12-27
+## Added
+	* Voice setting: vabiniku_0.0.4
+    * ノイズゲートを大幅に引き下げ。 now: -56dB
+    * Exciterをつけてはいけないと読んだので削除
+    * それに伴い、Gain増加
+
+# 2018-12-22
+## Added
+  * Voice setting: Vabiniku_0.0.3
+    * 1kHzにEQ設定。+8dB
+    * それに伴い、peakの影響で全体的に音量低下
 
 # 2018-12-17
 ## Added
