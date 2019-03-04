@@ -1,0 +1,18 @@
+# initialize structure
+6  0  title_1
+80 0  title_ch
+6  7  frame_slide
+83 7  frame_sns
+
+
+85 10 sns_cat_1
+sleep 3
+85 14 sns_cat_2
+sleep 3
+85 18 sns_cat_3
+sleep 3
+85 22 sns_cat_4
+sleep 1
+85 27 sns_info_1
+8  9  slide_1
+
