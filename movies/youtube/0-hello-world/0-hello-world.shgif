@@ -16,3 +16,10 @@ sleep 1
 85 27 sns_info_1
 8  9  slide_1
 
+
+sleep 3
+85 10 sns_2
+sleep 3
+85 10 sns_3
+sleep 3
+85 10 sns_4
