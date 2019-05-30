@@ -4,22 +4,29 @@
 6  7  frame_slide
 83 7  frame_sns
 
+# layout/01
+129 10 sns_mia_1
+sleep 3
+85 14 sns_cat_1
+sleep 3
+85 19 sns_cat_2
+sleep 3
 
+
+# layout/02
+83 7  frame_sns
 85 10 sns_cat_1
+85 15 sns_cat_2
 sleep 3
-85 14 sns_cat_2
-sleep 3
-85 18 sns_cat_3
-sleep 3
-85 22 sns_cat_4
-sleep 1
-85 27 sns_info_1
-8  9  slide_1
+85 20 sns_cat_3
 
 
+# layout/03
+83 7  frame_sns
+85 10 sns_cat_2
+85 15 sns_cat_3
 sleep 3
-85 10 sns_2
-sleep 3
-85 10 sns_3
-sleep 3
-85 10 sns_4
+85 20 sns_cat_4
+8  8  slide_1
+sleep 2
+85 25 sns_cat_5
