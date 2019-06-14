@@ -30,17 +30,20 @@ sleep 3
 8  8  slide_1
 sleep 2
 85 25 sns_cat_5
+sleep 3
 
 
 # layout/04
 83 7  frame_sns
 85 10 sns_cat_6
-85 15 sns_cat_7
 8  8  slide_2
+sleep 3
+85 15 sns_cat_7
 sleep 3
 85 20 sns_cat_8
 sleep 3
 85 25 sns_cat_9
+sleep 5
 
 
 # layout/05
@@ -52,6 +55,7 @@ sleep 3
 85 20 sns_cat_12
 sleep 3
 134 24 sns_mia_2
+sleep 3
 
 # layout/06
 83 7  frame_sns
