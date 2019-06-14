@@ -52,3 +52,13 @@ sleep 3
 85 20 sns_cat_12
 sleep 3
 134 24 sns_mia_2
+
+# layout/06
+83 7  frame_sns
+8  8  slide_3
+sleep 3
+8  8  slide_4
+sleep 3
+8  8  slide_5
+sleep 3
+8  8  slide_6
