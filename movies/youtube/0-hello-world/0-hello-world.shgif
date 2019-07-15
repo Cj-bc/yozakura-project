@@ -4,6 +4,8 @@
 6  7  frame_slide
 83 7  frame_sns
 
+sleep 18
+
 # layout/01
 129 10 sns_mia_1
 sleep 3
@@ -55,14 +57,17 @@ sleep 3
 85 20 sns_cat_12
 sleep 3
 134 24 sns_mia_2
-sleep 3
+
+sleep 4
 
 # layout/06
 83 7  frame_sns
 8  8  slide_3
-sleep 3
+sleep 12
 8  8  slide_4
-sleep 3
+sleep 20
 8  8  slide_5
-sleep 3
+sleep 17
 8  8  slide_6
+
+sleep 60
