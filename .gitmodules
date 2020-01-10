@@ -4,3 +4,12 @@
 [submodule "shgif"]
 	path = shgif
 	url = https://github.com/Cj-bc/shgif
+[submodule "subprojects/Face-data-server"]
+	path = subprojects/Face-data-server
+	url = https://github.com/Cj-bc/Face-data-server
+[submodule "subprojects/brick-shgif"]
+	path = subprojects/brick-shgif
+	url = https://github.com/Cj-bc/brick-shgif
+[submodule "subprojects/asciiart-hs"]
+	path = subprojects/asciiart-hs
+	url = https://github.com/Cj-bc/asciiart-hs
