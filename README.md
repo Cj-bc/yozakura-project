@@ -44,6 +44,24 @@ CLIの世界からバ美肉に挑もうという斬新(?)なプロジェクト�
 
   但し、のちに「ねこのすがた」(Cj-bc)の興味や都合により普通の2D(Live2D)モデルや3Dモデルが作成される可能性もあります。
 
+
+## 各機能とレポジトリの関係について
+
+このプロジェクトの開発は、このレポジトリをルートレポジトリとし複数のレポジトリに分割して行われています。
+サブプロジェクトは[subprojects](./subprojects)以下に`git submodule`として格納されています。
+([subprojects/archived](./subprojects/archived)は過去に開発されていたものの、乗り換えなどで現在使用していないレポジトリです。)
+各機能とレポジトリの関係については以下のyamlでまとめます(更新中)
+
+```yaml
+AAのモデルで動く:
+  ASCIIART(AA)のモデルのフォーマット・表示する: [brick-shgif](./subprojects/brick-shgif)
+    AAの変形・加工用ライブラリ: [asciiart-hs](./subprojects/asciiart-hs)
+  トラッキングデータを取得する: [Face-data-server](./subprojects/Face-data-server)
+  AAのモデルにトラッキングデータを適応する: 未作成
+```
+
+
+
 # 夜桜みあについて
 
 **注意**: なんの偶然か**名前被りが発生**しています。当プロジェクトの夜桜みあは、Twitter ID`me_in_ascii`です。**「夜桜姉妹」は当プロジェクトと関係ありません**(でも私の推しになったので是非見ていって)
