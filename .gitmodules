@@ -1,9 +1,3 @@
-[submodule "faclig"]
-	path = faclig
-	url = https://github.com/Cj-bc/faclig
-[submodule "shgif"]
-	path = shgif
-	url = https://github.com/Cj-bc/shgif
 [submodule "subprojects/Face-data-server"]
 	path = subprojects/Face-data-server
 	url = https://github.com/Cj-bc/Face-data-server
@@ -13,3 +7,9 @@
 [submodule "subprojects/asciiart-hs"]
 	path = subprojects/asciiart-hs
 	url = https://github.com/Cj-bc/asciiart-hs
+[submodule "subprojects/archived/shgif"]
+	path = subprojects/archived/shgif
+	url = https://github.com/Cj-bc/shgif
+[submodule "subprojects/archived/faclig"]
+	path = subprojects/archived/faclig
+	url = https://github.com/Cj-bc/faclig
