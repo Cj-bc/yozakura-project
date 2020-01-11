@@ -1,5 +1,7 @@
 Twitter: [夜桜みあ](https://twitter.com/me_in_ascii)
 
+このレポジトリの案内: [ABOUT_THE_REPO.md](ABOUT_THE_REPO.md)
+
 # 夜桜Project
 
 CLIの世界からバ美肉に挑もうという斬新(?)なプロジェクトです。
