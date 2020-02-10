@@ -5,7 +5,8 @@ function SendKey(place, key)
   call system('tmux send -t {' . a:place . '} ' . a:key)
 endfunction
 
-function EnableFace()
+
+function! EnableFace()
   nmap <silent> w :call SendKey(face_pane, 'w')<CR>
   nmap <silent> e :call SendKey(face_pane, 'e')<CR>
   nmap <silent> r :call SendKey(face_pane, 'r')<CR>
@@ -23,7 +24,7 @@ function EnableFace()
   nmap p :call DisableFace()<CR>
 endfunction
 
-function DisableFace()
+function! DisableFace()
   nunmap w
   nunmap e
   nunmap r
