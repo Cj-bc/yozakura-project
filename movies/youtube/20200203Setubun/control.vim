@@ -19,6 +19,11 @@ function! EnableFace()
   nmap <silent> n :call SendKey(face_pane, 'n')<CR>
   nmap <silent> m :call SendKey(face_pane, 'm')<CR>
   nmap <silent> q :call SendKey(face_pane, 'q')<CR>
+  nmap <silent> <F1> :call SendKey(face_pane, 'wem')<CR> " Emotion: Neutral
+  nmap <silent> <F2> :call SendKey(face_pane, 'sdm')<CR> " Emotion: Close
+  nmap <silent> <F3> :call SendKey(face_pane, 'xcb')<CR> " Emotion: Surprised
+  nmap <silent> <F4> :call SendKey(face_pane, 'rfn')<CR> " Emotion: Smile
+  nmap <silent> <F5> :call SendKey(face_pane, 'wdn')<CR> " Emotion: Wink
 
   nmap <silent> <Space> :call SendKey(oniOrHuman_pane, "\" \"")<CR>
   nmap p :call DisableFace()<CR>
@@ -37,6 +42,12 @@ function! DisableFace()
   nunmap n
   nunmap m
   nunmap p
+  nunmap <F1>
+  nunmap <F2>
+  nunmap <F3>
+  nunmap <F4>
+  nunmap <F5>
   nunmap <Space>
   nmap p :call EnableFace()<CR>
 endfunction
+
